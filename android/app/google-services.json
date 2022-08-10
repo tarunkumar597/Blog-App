@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "768235795863",
+    "project_id": "blog-app-b7b4e",
+    "storage_bucket": "blog-app-b7b4e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:768235795863:android:8ce01142b4c5e0027fc0d2",
+        "android_client_info": {
+          "package_name": "com.keshav.blog_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "768235795863-jiqrr6l7r6p2fnr2htg4r6dv23jdonud.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZWeuDsNkQdqIhB-AXwJOe1yRBsOoxw4M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "768235795863-jiqrr6l7r6p2fnr2htg4r6dv23jdonud.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
